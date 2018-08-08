@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Innovate" language="en" table="x_8774_innovate_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Innovate</label>
+            <language>en</language>
+            <name>x_8774_innovate_innovate</name>
+            <plural>Innovates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-08-07 07:32:14</sys_created_on>
+            <sys_id>245b5c9137771300849bea4873990ec0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Innovate</sys_name>
+            <sys_package display_value="Innovate" source="x_8774_innovate">38eadcdd37371300849bea4873990ea3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">38eadcdd37371300849bea4873990ea3</sys_scope>
+            <sys_update_name>sys_documentation_x_8774_innovate_innovate__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-08-07 07:32:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
